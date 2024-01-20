@@ -23,10 +23,13 @@ b. Сравнивает эти средние значения и выводит
 Путь к файлам программы и тестов сюда ->   [src](src)
 
 Отчет по покрытию:
+
 ![Покрытие](src/main/resources/Coverage100.png)
 
 Отчет SonarLint:
+
 ![SonarLint](src/main/resources/SonarLint.png)
+
 P.S Medium impact на команду вывода в консоль System.out.println()
 
 ### Письменный ответ: 
