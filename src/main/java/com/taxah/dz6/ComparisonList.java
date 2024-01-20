@@ -16,7 +16,7 @@ public class ComparisonList implements Iterable<Integer> {
         this.list = list;
     }
 
-    public void add(int el){
+    public void add(int el) {
         list.add(el);
     }
 
