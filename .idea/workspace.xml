@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1718bbf7-43d8-42e3-b227-8528b6aeaae6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taxah/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taxah/dz6/ComparisonList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taxah/dz6/ListComparerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestComparisonListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestListCompareService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bB8D3cpASlpEYBABOrN1eeLQsq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.All in Unit_tests_DZ6.executor": "Coverage",
+    "JUnit.TestApp.TestWholeApp.executor": "Run",
+    "JUnit.TestApp.executor": "Run",
+    "JUnit.TestComparisonListClass.executor": "Run",
+    "JUnit.TestComparisonListClass.testConstructorWithParameter.executor": "Run",
+    "JUnit.TestComparisonListClass.testContainsAddedElement.executor": "Run",
+    "JUnit.TestComparisonListClass.testList.executor": "Run",
+    "JUnit.TestComparisonListClass.testListAddingElement.executor": "Run",
+    "JUnit.TestComparisonListClass.testStream.executor": "Run",
+    "JUnit.TestComparisonListClass.testToString.executor": "Run",
+    "JUnit.TestGenerator.executor": "Run",
+    "JUnit.TestGenerator.testGeneratorIsFill.executor": "Run",
+    "JUnit.TestGenerator.testGeneratorListSizeGenerate.executor": "Run",
+    "JUnit.TestListCompareService.executor": "Run",
+    "JUnit.TestListCompareService.mockedTestCompareService.executor": "Run",
+    "JUnit.TestListCompareService.mockedTestCompareServiceClass.executor": "Run",
+    "JUnit.TestListCompareService.testCalculateAVG.executor": "Run",
+    "JUnit.TestListCompareService.testCompareFirstEqualSecond.executor": "Run",
+    "JUnit.TestListCompareService.testCompareFirstEqualThanSecond.executor": "Run",
+    "JUnit.TestListCompareService.testCompareFirstGreaterThanSecond.executor": "Run",
+    "JUnit.TestListCompareService.testCompareFirstLessThanSecond.executor": "Run",
+    "JUnit.TestServiceClasses.TestComparisonListCreate.executor": "Run",
+    "JUnit.TestServiceClasses.executor": "Coverage",
+    "JUnit.TestServiceClasses.testComparisonListCreate.executor": "Run",
+    "JUnit.TestServiceClasses.testGetSize.executor": "Run",
+    "JUnit.TestServiceClasses.testSetSizeChangeSize.executor": "Run",
+    "JUnit.java in Unit_tests_DZ6.executor": "Coverage",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last.edited.regexp": "",
+    "last_opened_file_path": "C:/Users/Toxae/IdeaProjects/NewProjects/Unit_tests_DZ6/src/main/java/com/taxah",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Toxae\IdeaProjects\NewProjects\Unit_tests_DZ6\src\main\java\com\taxah" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.taxah.dz6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.java in Unit_tests_DZ6">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taxah.Main" />
+      <module name="Unit_tests_DZ6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taxah.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests_DZ6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp.TestWholeApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests_DZ6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="METHOD_NAME" value="TestWholeApp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestComparisonListClass.testStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests_DZ6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestComparisonListClass" />
+      <option name="METHOD_NAME" value="testStream" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in Unit_tests_DZ6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests_DZ6" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in Unit_tests_DZ6" />
+        <item itemvalue="JUnit.TestComparisonListClass.testStream" />
+        <item itemvalue="JUnit.TestApp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestApp.TestWholeApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1718bbf7-43d8-42e3-b227-8528b6aeaae6" name="Changes" comment="" />
+      <created>1705676990597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705676990597</updated>
+      <workItem from="1705676992803" duration="1222000" />
+      <workItem from="1705678477913" duration="9745000" />
+      <workItem from="1705720945698" duration="1140000" />
+      <workItem from="1705722104097" duration="5398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Unit_tests_DZ6$All_in_Unit_tests_DZ6.ic" NAME="All in Unit_tests_DZ6 Coverage Results" MODIFIED="1705683301329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Unit_tests_DZ6$TestGenerator.ic" NAME="TestServiceClasses Coverage Results" MODIFIED="1705677705716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Unit_tests_DZ6$TestServiceClasses.ic" NAME="TestServiceClasses Coverage Results" MODIFIED="1705678801824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Unit_tests_DZ6$java_in_Unit_tests_DZ6.ic" NAME="java in Unit_tests_DZ6 Coverage Results" MODIFIED="1705727869768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
